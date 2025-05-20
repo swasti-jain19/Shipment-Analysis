@@ -8,7 +8,7 @@ It empowers operations, logistics, and sales teams to optimize delivery timeline
 
  **Overview**
 
-  ![DASHBOARD](Output/first.jpg)
+  ![DASHBOARD](Shipment_Analysis_DashBoard_page-0001.jpg)
 
 ## 📌 Project Overview
 This Power BI dashboard visualizes key shipment and revenue insights across time, countries, product categories, and sales representatives using transactional shipment data from 2022 to 2024.
@@ -99,14 +99,3 @@ The insights provided can significantly impact decision-making in **sales strate
 - Excel / CSV (Data Sources)
 - DAX (for measures and KPIs)
 - SQL-based data modeling
-  
----
-
-## 🖼️ Dashboard Snapshots
-
-
-- **Shipment Analysis**
-
-  ![DASHBOARD](Output/second.jpg)
-
----
